@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
-author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+title : Rose colored Glasses
+tagline: Why people are worth it
+author : Twilig
+  name : Brianna Marie
+  email : brianna.oviatt@gmail.com
+  github : ovbrianna
+  twitter : @twiligtypo
+  feedburner : none
 
 navigation :
   - archive.html
