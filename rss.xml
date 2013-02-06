@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Rose colored Glasses</title>
+    <link>http://ovbriann.github.com</link>
+    <pubDate>2013-02-06 14:42:38 -0700</pubDate>
+    <item>
+      <title>New Blog</title>
+      <link>http://ovbriann.github.com/post/new-blog</link>
+      <pubDate>2013-02-06</pubDate>
+      <description>Crossing my fingers</description>
+    </item>
+  </channel>
+</rss>
