@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Taivo Cakes"
 date: '2013-02-08'
