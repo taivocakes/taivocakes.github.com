@@ -1,10 +1,9 @@
 ---
-title: "New Blog"
-date: '2013-02-06'
-description: "Crossing my fingers"
+title: "Taivo Cakes"
+date: '2013-02-08'
+description: "Home Page"
 categories:
-  - "Twenty Five"
+  - "Intro"
 ---
 
-Hello Everyone, I'm trying to see how this works,
-so I want to see where this shows in the blog
+This is where you browse the portfolio
